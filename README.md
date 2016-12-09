@@ -3,7 +3,7 @@ A simple rust echo server.
 
 You might want to benchmark this server with https://github.com/haraldh/rust_echo_bench
 
-In comparison to the go echo server found at https://gist.github.com/idada/9342414 and the java netty server at https://github.com/ctron/netty-echo-server it performs nicely on my 4 Dual Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz.
+In comparison to the go echo server tcp_echo_normal.go found at https://gist.github.com/idada/9342414 and the java netty server at https://github.com/ctron/netty-echo-server it performs nicely on my 4 Dual Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz.
 
 Rust:
 ```
